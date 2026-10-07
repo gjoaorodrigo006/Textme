@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clube de Fotografia</title>
+    <header>
+        <h1>Clube de Fotografia</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Todas as quarta-feiras, às 18h00, na sala B12.</h2>
+            <p>O clube é aberto a todos os estudantes, com ou sem máquina fotográfica. Aprendemos a compor, a usar a luz e a editar, e fazemos uma saída por mês.</p>
+        </section>
+        <img width="450" height="300" src="https://odysseytours.pt/wp-content/uploads/2024/12/DJI_0384.MP4_snapshot_00.00_2021.03.10_01.20.16-scaled.jpg" alt="Foto do Farol">
+        <h3>Fotografia da saída de outubro, ao Farol</h3>
+        <section>
+            <h2>Próximas Saídas</h2>
+            <ul>
+                <li>15 de Outubro - Farol e costa</li>
+                <li>12 de Novembro - Mercado da Cidade</li>
+                <li>10 de Dezembro - Luzes de Natal</li>
+            </ul>
+            <h4>Para te inscreveres, preenche o, <a href="https://example.org/inscricao" target="_blank">formulário de inscrição</a> </h4>
+        </section>
+</head>
+<body>
+
+</body>
+</html>
